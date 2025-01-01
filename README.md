@@ -1,5 +1,23 @@
-## Hi there 👋
+## 👋 Hello !
+    Welcome to my GitHub.
+    You can call me _thamnis_ right here, or where you want.
+    I'm just someone loving computers, sciences and challenges with a little bit of poetic sense.
 
+## 🎹 I write in the following languages:
+``` C
+std::String[] languages = ["English", "French", "Python", "C++", "Java", "HTML", "CSS" , "JS", "PHP"];
+```
+
+## 💬 ```ping``` me for : 
+    🤝 collab' || 🏦 constructive discussion
+
+## 🎯 My final challenge is  
+    Making World better with this...and make money.
+
+
+_<h3 style="text-align:center;"><u>Author</u> : <a href="https://github.com/thamnis">@thamnis</a></h3>_
+
+EOF
 <!--
 **thamnis/thamnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

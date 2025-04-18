@@ -1,6 +1,6 @@
 ## 👋 Hello !
-    Welcome to my GitHub.
-    You can call me _thamnis_ right here, or where you want.
+    What's up friend.
+    You can call me thamnis or zen right here, or where you want.
     I'm just someone loving computers, sciences and challenges with a little bit of poetic sense.
 
 ## 🎹 I write in the following languages:

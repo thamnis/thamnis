@@ -1,5 +1,5 @@
 ## 👋 Hello !
-    What's up friend.
+    Hello friend.
     You can call me thamnis or zen right here, or where you want.
     I'm just someone loving computers, sciences and challenges with a little bit of poetic sense.
 
